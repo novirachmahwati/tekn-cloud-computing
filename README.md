@@ -1,2 +1,2 @@
 # tekn-cloud-computing
-cloud computing technology update
+cloud computing technology
